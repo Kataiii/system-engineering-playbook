@@ -5,3 +5,10 @@ language = "ru"
 
 [build]
 build-dir = "book"
+
+[preprocessor.drawio]
+command = "mdbook-drawio"
+
+[output.html]
+additional-css = ["src/_assets/custom.css"]
+additional-js = []
