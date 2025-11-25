@@ -3,7 +3,6 @@ authors = ["Jho00"]
 language = "en"
 src = "src"
 title = "system-engineering-playbook"
-language = "ru"
 
 [build]
 build-dir = "book"
