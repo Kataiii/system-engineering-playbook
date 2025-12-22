@@ -11,7 +11,3 @@
 ## Сценарий ручного создания тренировки
 
 @drawio{https://github.com/Kataiii/system-engineering-playbook/blob/main/src/diagrams/idef0.drawio}
-
-## Тест
-
-@drawio{https://github.com/bndroll/mdb/blob/master/src/diagrams/qwe.drawio}
