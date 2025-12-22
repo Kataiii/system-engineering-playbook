@@ -17,7 +17,7 @@
 ![](./img/packages_create_training.png)
 
 Диаграмма последовательности
-@drawio{https://github.com/Kataiii/system-engineering-playbook/blob/main/src/diagrams/sequence \_create_training.drawio}
+@drawio{https://github.com/Kataiii/system-engineering-playbook/blob/main/src/diagrams/sequence_create_training.drawio}
 
 Диаграмма состояний
 ![](./img/statechart_create_training.png)
@@ -61,7 +61,7 @@
 ![](./img/packages_create_manual_training.png)
 
 Диаграмма последовательности
-![](./img/sequence \_create_manual_training1.png)
+![](./img/sequence_create_manual_training1.png)
 
 Диаграмма состояний
 ![](./img/statechart_create_manual_training.png)
