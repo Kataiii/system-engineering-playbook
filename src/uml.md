@@ -11,7 +11,7 @@
 @drawio{https://github.com/Kataiii/system-engineering-playbook/blob/main/src/diagrams/activity_create_training.drawio}
 
 Диаграмма классов
-![Диаграмма классов](https://github.com/Kataiii/system-engineering-playbook/blob/main/img/class_create_training.png)
+![Диаграмма классов](../img/class_create_training.png)
 
 ## Сценарий редактирования тренировки
 
